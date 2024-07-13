@@ -1,4 +1,4 @@
-//Archer Simpson, October 2023
+//Archie Simpson, October 2023
 //Throughout my project I have utilised portions of code from avaliable libary sources including: A library demo of IR remote controls by Nicohood; 'IRLRemote', A library demo of MIDI controls by Arduino; 'MIDIUSB' adapted with
 //refrence to this youtube tutorial posted by Good Electronics: https://www.youtube.com/watch?v=K-OPme8-BNA. All other code has been developed from scratch by yours truly
 
